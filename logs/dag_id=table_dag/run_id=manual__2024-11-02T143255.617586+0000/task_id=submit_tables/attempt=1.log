@@ -1,0 +1,14 @@
+[2024-11-02T14:32:58.762+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: table_dag.submit_tables manual__2024-11-02T14:32:55.617586+00:00 [queued]>
+[2024-11-02T14:32:58.773+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: table_dag.submit_tables manual__2024-11-02T14:32:55.617586+00:00 [queued]>
+[2024-11-02T14:32:58.773+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2024-11-02T14:32:58.789+0000] {taskinstance.py:1380} INFO - Executing <Task(PinotTableSubmitOperator): submit_tables> on 2024-11-02 14:32:55.617586+00:00
+[2024-11-02T14:32:58.793+0000] {standard_task_runner.py:57} INFO - Started process 3168 to run task
+[2024-11-02T14:32:58.796+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'table_dag', 'submit_tables', 'manual__2024-11-02T14:32:55.617586+00:00', '--job-id', '1801', '--raw', '--subdir', 'DAGS_FOLDER/table_dag.py', '--cfg-path', '/tmp/tmptv16z1nb']
+[2024-11-02T14:32:58.799+0000] {standard_task_runner.py:85} INFO - Job 1801: Subtask submit_tables
+[2024-11-02T14:32:58.846+0000] {task_command.py:415} INFO - Running <TaskInstance: table_dag.submit_tables manual__2024-11-02T14:32:55.617586+00:00 [running]> on host 5e812a6a7c02
+[2024-11-02T14:32:58.931+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='minhtranquang' AIRFLOW_CTX_DAG_ID='table_dag' AIRFLOW_CTX_TASK_ID='submit_tables' AIRFLOW_CTX_EXECUTION_DATE='2024-11-02T14:32:55.617586+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-11-02T14:32:55.617586+00:00'
+[2024-11-02T14:32:58.948+0000] {pinot_table_operator.py:30} ERROR - Failed to submit table: 409 - {"code":409,"error":"Table config for account_dim_OFFLINE already exists. If this is unexpected, try deleting the table to remove all metadata associated with it."}
+[2024-11-02T14:32:58.950+0000] {pinot_table_operator.py:33} ERROR - An error occured: Table submission failed with status code 409
+[2024-11-02T14:32:58.960+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=table_dag, task_id=submit_tables, execution_date=20241102T143255, start_date=20241102T143258, end_date=20241102T143258
+[2024-11-02T14:32:59.010+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-11-02T14:32:59.038+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

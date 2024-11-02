@@ -12,7 +12,7 @@
     "tableIndexConfig": {
         "loadMode": "MMAP",
         "invertedIndexColumns": ["first_name", "last_name", "email"],
-        "sortedColumn": ["branch_dim"]
+        "sortedColumn": ["customer_id"]
     },
     "ingestionConfig": {
         "batchIngestionConfig": {

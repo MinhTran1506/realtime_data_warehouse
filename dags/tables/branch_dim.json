@@ -11,8 +11,8 @@
     },
     "tableIndexConfig": {
         "loadMode": "MMAP",
-        "invertedIndexColumns": ["branch_name", "city", "state"],
-        "sortedColumn": ["branch_dim"]
+        "invertedIndexColumns": ["branch_name", "city", "region"],
+        "sortedColumn": ["branch_id"]
     },
     "ingestionConfig": {
         "batchIngestionConfig": {

@@ -18,11 +18,11 @@
             "dataType": "STRING"
         },
         {
-            "name": "state",
+            "name": "region",
             "dataType": "STRING"
         },
         {
-            "name": "zipcode",
+            "name": "postcode",
             "dataType": "STRING"
         },
         {

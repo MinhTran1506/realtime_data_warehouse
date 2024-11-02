@@ -13,8 +13,8 @@
             "dataType": "STRING"
         },
         {
-            "name": "openting_date",
-            "dataType": "TIMESTAMPS"
+            "name": "opening_date",
+            "dataType": "TIMESTAMP"
         },
         {
             "name": "status",

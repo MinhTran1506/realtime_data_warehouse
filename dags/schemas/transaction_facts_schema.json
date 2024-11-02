@@ -28,7 +28,7 @@
     ],
     "metricFieldSpecs": [
         {
-            "name": "transaction_rate",
+            "name": "transaction_amount",
             "dataType": "DOUBLE"
         },
         {
