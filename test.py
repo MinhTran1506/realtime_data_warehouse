@@ -1,6 +1,5 @@
 from faker import Faker
 
-
 fake = Faker('de_DE')
 
 fake_address = fake.street_address()
@@ -13,3 +12,4 @@ print(fake_name)
 print(fake_region)
 print(fake_phonenumber)
 print(fake_eamil)
+

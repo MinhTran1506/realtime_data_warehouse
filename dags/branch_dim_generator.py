@@ -33,7 +33,7 @@ opening_dates = []
 fake = Faker('de_DE')
 
 def generate_random_data(row_num):
-    branch_id = f"B{row_num:04d}"
+    branch_id = f"B{row_num:05d}"
     branch_name = f"Branch {row_num}"
     brach_address = fake.street_address()
     city = fake.city()

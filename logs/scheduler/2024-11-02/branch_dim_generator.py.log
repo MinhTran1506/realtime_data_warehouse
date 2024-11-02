@@ -4634,3 +4634,1209 @@ ModuleNotFoundError: No module named 'faker'
 [2024-11-02T15:14:05.162+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:14:05.161+0000] {dag.py:2915} INFO - Sync 1 DAGs
 [2024-11-02T15:14:05.189+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:14:05.189+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
 [2024-11-02T15:14:05.213+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.568 seconds
+[2024-11-02T15:14:35.423+0000] {processor.py:157} INFO - Started process (PID=7019) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:14:35.423+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:14:35.424+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:14:35.424+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:14:35.829+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:14:35.858+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:14:35.857+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:14:35.879+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:14:35.879+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:14:35.899+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.479 seconds
+[2024-11-02T15:15:06.649+0000] {processor.py:157} INFO - Started process (PID=7066) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:15:06.650+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:15:06.651+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:15:06.650+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:15:07.087+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:15:07.113+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:15:07.113+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:15:07.136+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:15:07.136+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:15:07.157+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.512 seconds
+[2024-11-02T15:15:37.749+0000] {processor.py:157} INFO - Started process (PID=7113) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:15:37.750+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:15:37.751+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:15:37.751+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:15:38.234+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:15:38.264+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:15:38.264+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:15:38.290+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:15:38.290+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:15:38.317+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.571 seconds
+[2024-11-02T15:16:09.066+0000] {processor.py:157} INFO - Started process (PID=7160) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:16:09.067+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:16:09.068+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:16:09.068+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:16:09.596+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:16:09.634+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:16:09.633+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:16:09.667+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:16:09.667+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:16:09.690+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.628 seconds
+[2024-11-02T15:16:40.389+0000] {processor.py:157} INFO - Started process (PID=7207) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:16:40.390+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:16:40.391+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:16:40.391+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:16:40.825+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:16:40.852+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:16:40.851+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:16:40.873+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:16:40.873+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:16:40.894+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.509 seconds
+[2024-11-02T15:17:11.752+0000] {processor.py:157} INFO - Started process (PID=7259) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:17:11.753+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:17:11.754+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:17:11.754+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:17:12.237+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:17:12.269+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:17:12.268+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:17:12.293+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:17:12.292+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:17:12.316+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.568 seconds
+[2024-11-02T15:17:42.554+0000] {processor.py:157} INFO - Started process (PID=7306) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:17:42.555+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:17:42.557+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:17:42.556+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:17:43.064+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:17:43.092+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:17:43.091+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:17:43.117+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:17:43.117+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:17:43.141+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.591 seconds
+[2024-11-02T15:18:13.534+0000] {processor.py:157} INFO - Started process (PID=7353) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:18:13.535+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:18:13.536+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:18:13.536+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:18:13.951+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:18:13.975+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:18:13.974+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:18:13.997+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:18:13.997+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:18:14.018+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.487 seconds
+[2024-11-02T15:18:44.423+0000] {processor.py:157} INFO - Started process (PID=7400) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:18:44.424+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:18:44.425+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:18:44.424+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:18:45.000+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:18:45.028+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:18:45.028+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:18:45.050+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:18:45.050+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:18:45.072+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.653 seconds
+[2024-11-02T15:19:15.258+0000] {processor.py:157} INFO - Started process (PID=7447) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:19:15.259+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:19:15.260+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:19:15.260+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:19:15.724+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:19:15.750+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:19:15.749+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:19:15.772+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:19:15.772+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:19:15.793+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.537 seconds
+[2024-11-02T15:19:46.089+0000] {processor.py:157} INFO - Started process (PID=7494) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:19:46.090+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:19:46.091+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:19:46.091+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:19:46.549+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:19:46.574+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:19:46.573+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:19:46.594+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:19:46.594+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:19:46.614+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.529 seconds
+[2024-11-02T15:20:16.813+0000] {processor.py:157} INFO - Started process (PID=7541) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:20:16.814+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:20:16.815+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:20:16.815+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:20:17.279+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:20:17.305+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:20:17.304+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:20:17.328+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:20:17.327+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:20:17.353+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.543 seconds
+[2024-11-02T15:20:47.856+0000] {processor.py:157} INFO - Started process (PID=7588) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:20:47.857+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:20:47.858+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:20:47.858+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:20:48.285+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:20:48.313+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:20:48.312+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:20:48.334+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:20:48.334+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:20:48.358+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.506 seconds
+[2024-11-02T15:21:19.369+0000] {processor.py:157} INFO - Started process (PID=7640) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:21:19.370+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:21:19.371+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:21:19.371+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:21:19.774+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:21:19.798+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:21:19.798+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:21:19.822+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:21:19.822+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:21:19.842+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.476 seconds
+[2024-11-02T15:21:50.476+0000] {processor.py:157} INFO - Started process (PID=7687) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:21:50.477+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:21:50.478+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:21:50.478+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:21:50.896+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:21:50.919+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:21:50.919+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:21:50.940+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:21:50.940+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:21:50.961+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.490 seconds
+[2024-11-02T15:22:21.800+0000] {processor.py:157} INFO - Started process (PID=7734) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:22:21.801+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:22:21.802+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:22:21.802+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:22:22.210+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:22:22.234+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:22:22.234+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:22:22.256+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:22:22.256+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:22:22.274+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.477 seconds
+[2024-11-02T15:22:53.017+0000] {processor.py:157} INFO - Started process (PID=7781) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:22:53.018+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:22:53.019+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:22:53.019+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:22:53.542+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:22:53.571+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:22:53.571+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:22:53.600+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:22:53.599+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:22:53.629+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.615 seconds
+[2024-11-02T15:23:23.890+0000] {processor.py:157} INFO - Started process (PID=7828) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:23:23.890+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:23:23.891+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:23:23.891+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:23:24.295+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:23:24.318+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:23:24.318+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:23:24.338+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:23:24.338+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:23:24.355+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.469 seconds
+[2024-11-02T15:23:55.116+0000] {processor.py:157} INFO - Started process (PID=7875) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:23:55.118+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:23:55.121+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:23:55.121+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:23:55.570+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:23:55.594+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:23:55.593+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:23:55.614+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:23:55.614+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:23:55.635+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.524 seconds
+[2024-11-02T15:24:26.432+0000] {processor.py:157} INFO - Started process (PID=7922) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:24:26.432+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:24:26.433+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:24:26.433+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:24:26.833+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:24:26.858+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:24:26.858+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:24:26.880+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:24:26.880+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:24:26.902+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.473 seconds
+[2024-11-02T15:24:57.578+0000] {processor.py:157} INFO - Started process (PID=7969) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:24:57.579+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:24:57.580+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:24:57.580+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:24:57.986+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:24:58.013+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:24:58.012+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:24:58.033+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:24:58.033+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:24:58.055+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.480 seconds
+[2024-11-02T15:25:28.908+0000] {processor.py:157} INFO - Started process (PID=8016) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:25:28.909+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:25:28.910+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:25:28.910+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:25:29.325+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:25:29.350+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:25:29.349+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:25:29.372+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:25:29.372+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:25:29.392+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.487 seconds
+[2024-11-02T15:26:00.183+0000] {processor.py:157} INFO - Started process (PID=8063) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:26:00.184+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:26:00.185+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:26:00.184+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:26:00.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:26:00.663+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:26:00.663+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:26:00.685+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:26:00.685+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:26:00.708+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.528 seconds
+[2024-11-02T15:26:31.380+0000] {processor.py:157} INFO - Started process (PID=8117) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:26:31.381+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:26:31.382+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:26:31.382+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:26:31.802+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:26:31.826+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:26:31.825+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:26:31.846+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:26:31.846+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:26:31.869+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.492 seconds
+[2024-11-02T15:27:02.069+0000] {processor.py:157} INFO - Started process (PID=8164) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:27:02.070+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:27:02.071+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:27:02.071+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:27:02.465+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:27:02.489+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:27:02.488+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:27:02.508+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:27:02.508+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:27:02.535+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.469 seconds
+[2024-11-02T15:27:32.724+0000] {processor.py:157} INFO - Started process (PID=8211) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:27:32.725+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:27:32.726+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:27:32.725+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:27:33.310+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:27:33.335+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:27:33.335+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:27:33.357+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:27:33.357+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:27:33.378+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.657 seconds
+[2024-11-02T15:28:03.833+0000] {processor.py:157} INFO - Started process (PID=8258) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:28:03.834+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:28:03.835+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:28:03.835+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:28:04.280+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:28:04.304+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:28:04.303+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:28:04.325+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:28:04.325+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:28:04.345+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.515 seconds
+[2024-11-02T15:28:34.495+0000] {processor.py:157} INFO - Started process (PID=8305) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:28:34.496+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:28:34.497+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:28:34.497+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:28:34.943+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:28:34.969+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:28:34.969+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:28:34.992+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:28:34.992+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:28:35.014+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.523 seconds
+[2024-11-02T15:29:05.310+0000] {processor.py:157} INFO - Started process (PID=8352) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:29:05.311+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:29:05.312+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:29:05.312+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:29:05.710+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:29:05.734+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:29:05.734+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:29:05.755+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:29:05.755+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:29:05.776+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.469 seconds
+[2024-11-02T15:29:35.979+0000] {processor.py:157} INFO - Started process (PID=8399) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:29:35.980+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:29:35.981+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:29:35.980+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:29:36.391+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:29:36.417+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:29:36.417+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:29:36.440+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:29:36.440+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:29:36.462+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.487 seconds
+[2024-11-02T15:30:06.755+0000] {processor.py:157} INFO - Started process (PID=8446) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:30:06.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:30:06.757+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:30:06.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:30:07.161+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:30:07.185+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:30:07.185+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:30:07.206+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:30:07.206+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:30:07.225+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.473 seconds
+[2024-11-02T15:30:37.588+0000] {processor.py:157} INFO - Started process (PID=8493) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:30:37.589+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:30:37.590+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:30:37.590+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:30:38.035+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:30:38.064+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:30:38.064+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:30:38.092+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:30:38.092+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:30:38.119+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.534 seconds
+[2024-11-02T15:31:08.276+0000] {processor.py:157} INFO - Started process (PID=8540) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:31:08.277+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:31:08.279+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:31:08.278+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:31:08.752+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:31:08.779+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:31:08.779+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:31:08.802+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:31:08.802+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:31:08.827+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.555 seconds
+[2024-11-02T15:31:39.028+0000] {processor.py:157} INFO - Started process (PID=8587) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:31:39.030+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:31:39.031+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:31:39.030+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:31:39.440+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:31:39.463+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:31:39.463+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:31:39.485+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:31:39.484+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:31:39.505+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.479 seconds
+[2024-11-02T15:32:09.747+0000] {processor.py:157} INFO - Started process (PID=8634) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:32:09.748+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:32:09.749+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:32:09.749+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:32:10.292+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:32:10.322+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:32:10.321+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:32:10.346+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:32:10.346+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:32:10.374+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.631 seconds
+[2024-11-02T15:38:37.993+0000] {processor.py:157} INFO - Started process (PID=186) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:38:37.994+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:38:37.996+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:38:37.995+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:38:39.350+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:38:39.663+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:38:39.662+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:branch_dim_generator' as access control is unset.
+[2024-11-02T15:38:39.665+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:38:39.664+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:38:39.730+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:38:39.729+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:38:39.792+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 1.808 seconds
+[2024-11-02T15:39:10.345+0000] {processor.py:157} INFO - Started process (PID=238) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:39:10.346+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:39:10.348+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:39:10.347+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:39:10.878+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:39:10.902+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:39:10.902+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:39:10.922+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:39:10.922+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:39:10.942+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.600 seconds
+[2024-11-02T15:39:41.566+0000] {processor.py:157} INFO - Started process (PID=285) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:39:41.567+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:39:41.568+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:39:41.568+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:39:42.079+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:39:42.101+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:39:42.101+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:39:42.120+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:39:42.120+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:39:42.140+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.578 seconds
+[2024-11-02T15:40:12.624+0000] {processor.py:157} INFO - Started process (PID=332) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:40:12.625+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:40:12.627+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:40:12.626+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:40:13.030+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:40:13.057+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:40:13.057+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:40:13.080+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:40:13.079+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:40:13.104+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.483 seconds
+[2024-11-02T15:40:43.743+0000] {processor.py:157} INFO - Started process (PID=379) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:40:43.744+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:40:43.745+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:40:43.745+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:40:44.160+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:40:44.187+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:40:44.187+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:40:44.211+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:40:44.211+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:40:44.231+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.491 seconds
+[2024-11-02T15:41:14.325+0000] {processor.py:157} INFO - Started process (PID=426) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:41:14.327+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:41:14.328+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:41:14.328+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:41:14.748+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:41:14.778+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:41:14.778+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:41:14.802+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:41:14.802+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:41:14.824+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.503 seconds
+[2024-11-02T15:41:44.981+0000] {processor.py:157} INFO - Started process (PID=473) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:41:44.982+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:41:44.983+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:41:44.983+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:41:45.462+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:41:45.506+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:41:45.505+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:41:45.539+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:41:45.539+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:41:45.562+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.584 seconds
+[2024-11-02T15:42:15.748+0000] {processor.py:157} INFO - Started process (PID=520) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:42:15.750+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:42:15.751+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:42:15.750+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:42:16.198+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:42:16.225+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:42:16.225+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:42:16.248+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:42:16.248+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:42:16.272+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.527 seconds
+[2024-11-02T15:42:47.095+0000] {processor.py:157} INFO - Started process (PID=567) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:42:47.097+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:42:47.098+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:42:47.097+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:42:47.563+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:42:47.588+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:42:47.587+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:42:47.609+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:42:47.609+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:42:47.628+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.537 seconds
+[2024-11-02T15:43:17.802+0000] {processor.py:157} INFO - Started process (PID=614) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:43:17.803+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:43:17.804+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:43:17.803+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:43:18.248+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:43:18.273+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:43:18.272+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:43:18.292+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:43:18.292+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:43:18.313+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.514 seconds
+[2024-11-02T15:43:48.658+0000] {processor.py:157} INFO - Started process (PID=661) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:43:48.660+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:43:48.661+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:43:48.660+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:43:49.077+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:43:49.113+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:43:49.113+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:43:49.133+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:43:49.133+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:43:49.154+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.498 seconds
+[2024-11-02T15:45:35.180+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:45:35.182+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:45:35.183+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:45:35.183+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:45:36.585+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:45:36.579+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:45:36.586+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:45:36.604+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 1.429 seconds
+[2024-11-02T15:46:06.733+0000] {processor.py:157} INFO - Started process (PID=239) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:46:06.735+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:46:06.736+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:46:06.735+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:46:07.187+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:46:07.181+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:46:07.188+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:46:07.204+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.474 seconds
+[2024-11-02T15:46:37.462+0000] {processor.py:157} INFO - Started process (PID=281) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:46:37.464+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:46:37.467+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:46:37.466+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:46:37.971+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:46:37.966+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:46:37.973+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:46:37.990+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.531 seconds
+[2024-11-02T15:47:08.239+0000] {processor.py:157} INFO - Started process (PID=333) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:47:08.240+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:47:08.241+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:47:08.241+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:47:08.744+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:47:08.739+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:47:08.746+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:47:08.761+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.526 seconds
+[2024-11-02T15:47:39.196+0000] {processor.py:157} INFO - Started process (PID=375) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:47:39.197+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:47:39.198+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:47:39.198+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:47:39.644+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:47:39.638+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:47:39.646+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:47:39.661+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.469 seconds
+[2024-11-02T15:48:09.800+0000] {processor.py:157} INFO - Started process (PID=429) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:48:09.801+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:48:09.802+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:48:09.802+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:48:10.174+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:48:10.167+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:48:10.176+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:48:10.194+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.398 seconds
+[2024-11-02T15:48:40.492+0000] {processor.py:157} INFO - Started process (PID=476) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:48:40.493+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:48:40.494+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:48:40.494+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:48:40.832+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:48:40.827+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:48:40.833+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:48:40.852+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.364 seconds
+[2024-11-02T15:49:11.182+0000] {processor.py:157} INFO - Started process (PID=523) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:49:11.184+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:49:11.185+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:49:11.184+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:49:11.517+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:49:11.511+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:49:11.518+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:49:11.534+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.355 seconds
+[2024-11-02T15:49:41.629+0000] {processor.py:157} INFO - Started process (PID=570) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:49:41.630+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:49:41.631+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:49:41.630+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:49:41.952+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:49:41.946+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:49:41.954+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:49:41.972+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.347 seconds
+[2024-11-02T15:50:12.315+0000] {processor.py:157} INFO - Started process (PID=617) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:50:12.316+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:50:12.317+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:50:12.317+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:50:12.632+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:50:12.626+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:50:12.634+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:50:12.650+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.338 seconds
+[2024-11-02T15:50:43.034+0000] {processor.py:157} INFO - Started process (PID=664) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:50:43.035+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:50:43.037+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:50:43.036+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:50:43.377+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:50:43.369+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:50:43.379+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:50:43.399+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.368 seconds
+[2024-11-02T15:51:13.594+0000] {processor.py:157} INFO - Started process (PID=716) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:51:13.595+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:51:13.596+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:51:13.596+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:51:13.968+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:51:13.961+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:51:13.970+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:51:13.991+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.400 seconds
+[2024-11-02T15:51:44.157+0000] {processor.py:157} INFO - Started process (PID=763) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:51:44.159+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:51:44.160+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:51:44.160+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:51:44.519+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:51:44.512+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:51:44.520+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:51:44.539+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.385 seconds
+[2024-11-02T15:52:14.755+0000] {processor.py:157} INFO - Started process (PID=805) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:52:14.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:52:14.758+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:52:14.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:52:15.142+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:52:15.135+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:52:15.144+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:52:15.166+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.414 seconds
+[2024-11-02T15:52:45.376+0000] {processor.py:157} INFO - Started process (PID=852) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:52:45.377+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:52:45.378+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:52:45.378+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:52:45.730+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:52:45.723+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:52:45.732+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:52:45.751+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.380 seconds
+[2024-11-02T15:53:16.257+0000] {processor.py:157} INFO - Started process (PID=899) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:53:16.258+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:53:16.259+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:53:16.259+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:53:16.628+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:53:16.622+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:53:16.630+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:53:16.649+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.395 seconds
+[2024-11-02T15:53:46.976+0000] {processor.py:157} INFO - Started process (PID=946) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:53:46.978+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:53:46.979+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:53:46.979+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:53:47.333+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:53:47.326+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:53:47.335+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:53:47.357+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.384 seconds
+[2024-11-02T15:54:17.416+0000] {processor.py:157} INFO - Started process (PID=993) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:54:17.417+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:54:17.418+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:54:17.418+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:54:17.739+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:54:17.732+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:54:17.740+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:54:17.759+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.346 seconds
+[2024-11-02T15:54:48.293+0000] {processor.py:157} INFO - Started process (PID=1040) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:54:48.294+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:54:48.295+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:54:48.294+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:54:48.697+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:54:48.690+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:54:48.699+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:54:48.719+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.429 seconds
+[2024-11-02T15:55:18.843+0000] {processor.py:157} INFO - Started process (PID=1087) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:55:18.845+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:55:18.846+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:55:18.845+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:55:19.278+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:55:19.272+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:55:19.280+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:55:19.297+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.458 seconds
+[2024-11-02T15:55:49.639+0000] {processor.py:157} INFO - Started process (PID=1134) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:55:49.640+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:55:49.642+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:55:49.641+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:55:50.021+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:55:50.014+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:55:50.023+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:55:50.040+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.405 seconds
+[2024-11-02T15:56:20.087+0000] {processor.py:157} INFO - Started process (PID=1181) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:56:20.088+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:56:20.089+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:56:20.089+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:56:20.443+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:56:20.437+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:56:20.445+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:56:20.465+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.381 seconds
+[2024-11-02T15:56:50.519+0000] {processor.py:157} INFO - Started process (PID=1228) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:56:50.520+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:56:50.521+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:56:50.521+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:56:50.849+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:56:50.843+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:56:50.850+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:56:50.868+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.352 seconds
+[2024-11-02T15:57:21.015+0000] {processor.py:157} INFO - Started process (PID=1275) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:57:21.016+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:57:21.017+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:57:21.016+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:57:21.356+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:57:21.349+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:57:21.358+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:57:21.377+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.365 seconds
+[2024-11-02T15:57:51.651+0000] {processor.py:157} INFO - Started process (PID=1322) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:57:51.652+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:57:51.653+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:57:51.653+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:57:51.991+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:57:51.984+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:57:51.993+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:57:52.019+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.371 seconds
+[2024-11-02T15:58:22.076+0000] {processor.py:157} INFO - Started process (PID=1369) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:58:22.078+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:58:22.079+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:58:22.079+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:58:22.421+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:58:22.414+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:58:22.423+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:58:22.442+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.369 seconds
+[2024-11-02T15:58:52.712+0000] {processor.py:157} INFO - Started process (PID=1416) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:58:52.714+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:58:52.715+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:58:52.715+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:58:53.039+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:58:53.033+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:58:53.041+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:58:53.058+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.349 seconds
+[2024-11-02T15:59:23.260+0000] {processor.py:157} INFO - Started process (PID=1469) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:59:23.262+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:59:23.263+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:59:23.263+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:59:23.600+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:59:23.593+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/branch_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/branch_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T15:59:23.601+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:59:23.618+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.361 seconds
+[2024-11-02T15:59:53.802+0000] {processor.py:157} INFO - Started process (PID=1526) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:59:53.804+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T15:59:53.805+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:59:53.804+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:59:54.252+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T15:59:54.351+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:59:54.351+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:branch_dim_generator' as access control is unset.
+[2024-11-02T15:59:54.352+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:59:54.352+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T15:59:54.372+0000] {logging_mixin.py:151} INFO - [2024-11-02T15:59:54.372+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T15:59:54.395+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.596 seconds
+[2024-11-02T16:00:25.213+0000] {processor.py:157} INFO - Started process (PID=1592) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:00:25.214+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:00:25.215+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:00:25.215+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:00:25.662+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:00:25.689+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:00:25.688+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:00:25.741+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:00:25.741+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:00:25.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.563 seconds
+[2024-11-02T16:00:56.338+0000] {processor.py:157} INFO - Started process (PID=1639) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:00:56.339+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:00:56.340+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:00:56.340+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:00:56.786+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:00:56.813+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:00:56.813+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:00:56.836+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:00:56.836+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:00:56.857+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.523 seconds
+[2024-11-02T16:01:27.510+0000] {processor.py:157} INFO - Started process (PID=1695) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:01:27.511+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:01:27.512+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:01:27.512+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:01:27.943+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:01:27.969+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:01:27.969+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:01:27.991+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:01:27.991+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:01:28.015+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.509 seconds
+[2024-11-02T16:01:58.087+0000] {processor.py:157} INFO - Started process (PID=1752) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:01:58.088+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:01:58.089+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:01:58.089+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:01:58.599+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:01:58.638+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:01:58.637+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:01:58.661+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:01:58.661+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:01:58.683+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.599 seconds
+[2024-11-02T16:02:28.789+0000] {processor.py:157} INFO - Started process (PID=1797) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:02:28.790+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:02:28.791+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:02:28.791+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:02:29.205+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:02:29.230+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:02:29.229+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:02:29.252+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:02:29.252+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:02:29.271+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.485 seconds
+[2024-11-02T16:02:42.590+0000] {processor.py:157} INFO - Started process (PID=188) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:02:42.591+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:02:42.592+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:02:42.592+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:02:43.151+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:02:43.187+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:02:43.187+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:02:43.208+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:02:43.208+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:02:43.232+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.644 seconds
+[2024-11-02T16:03:13.392+0000] {processor.py:157} INFO - Started process (PID=238) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:03:13.393+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:03:13.394+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:03:13.394+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:03:13.921+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:03:13.944+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:03:13.944+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:03:13.968+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:03:13.968+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:03:13.989+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.600 seconds
+[2024-11-02T16:03:44.608+0000] {processor.py:157} INFO - Started process (PID=291) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:03:44.609+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:03:44.610+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:03:44.610+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:03:45.183+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:03:45.214+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:03:45.213+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:03:45.238+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:03:45.238+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:03:45.264+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.659 seconds
+[2024-11-02T16:04:15.891+0000] {processor.py:157} INFO - Started process (PID=340) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:04:15.892+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:04:15.894+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:04:15.893+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:04:16.475+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:04:16.513+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:04:16.512+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:04:16.574+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:04:16.572+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:04:16.661+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.774 seconds
+[2024-11-02T16:04:47.426+0000] {processor.py:157} INFO - Started process (PID=412) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:04:47.427+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:04:47.429+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:04:47.428+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:04:48.108+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:04:48.142+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:04:48.141+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:04:48.182+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:04:48.182+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:04:48.209+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.788 seconds
+[2024-11-02T16:05:18.858+0000] {processor.py:157} INFO - Started process (PID=459) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:05:18.859+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:05:18.860+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:05:18.860+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:05:19.287+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:05:19.316+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:05:19.316+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:05:19.341+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:05:19.341+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:05:19.363+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.509 seconds
+[2024-11-02T16:05:50.154+0000] {processor.py:157} INFO - Started process (PID=506) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:05:50.156+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:05:50.157+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:05:50.157+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:05:50.577+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:05:50.602+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:05:50.601+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:05:50.622+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:05:50.622+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:05:50.644+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.494 seconds
+[2024-11-02T16:06:21.494+0000] {processor.py:157} INFO - Started process (PID=553) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:06:21.495+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:06:21.497+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:06:21.496+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:06:21.914+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:06:21.940+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:06:21.940+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:06:21.962+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:06:21.962+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:06:21.984+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.493 seconds
+[2024-11-02T16:06:52.727+0000] {processor.py:157} INFO - Started process (PID=600) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:06:52.728+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:06:52.729+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:06:52.729+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:06:53.143+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:06:53.168+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:06:53.167+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:06:53.192+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:06:53.192+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:06:53.215+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.491 seconds
+[2024-11-02T16:07:23.906+0000] {processor.py:157} INFO - Started process (PID=647) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:07:23.907+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:07:23.908+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:07:23.908+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:07:24.353+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:07:24.381+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:07:24.380+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:07:24.406+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:07:24.406+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:07:24.429+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.526 seconds
+[2024-11-02T16:07:55.234+0000] {processor.py:157} INFO - Started process (PID=694) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:07:55.235+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:07:55.236+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:07:55.236+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:07:55.639+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:07:55.665+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:07:55.664+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:07:55.688+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:07:55.687+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:07:55.710+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.478 seconds
+[2024-11-02T16:08:26.745+0000] {processor.py:157} INFO - Started process (PID=741) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:08:26.755+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:08:26.758+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:08:26.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:08:27.312+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:08:27.339+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:08:27.339+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:08:27.360+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:08:27.360+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:08:27.380+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.651 seconds
+[2024-11-02T16:08:57.904+0000] {processor.py:157} INFO - Started process (PID=788) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:08:57.905+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:08:57.906+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:08:57.906+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:08:58.359+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:08:58.387+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:08:58.386+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:08:58.410+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:08:58.410+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:08:58.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.535 seconds
+[2024-11-02T16:09:29.217+0000] {processor.py:157} INFO - Started process (PID=835) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:09:29.218+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:09:29.219+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:09:29.219+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:09:29.686+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:09:29.714+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:09:29.713+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:09:29.739+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:09:29.738+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:09:29.760+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.546 seconds
+[2024-11-02T16:10:00.436+0000] {processor.py:157} INFO - Started process (PID=882) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:10:00.437+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:10:00.438+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:10:00.438+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:10:00.893+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:10:00.920+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:10:00.919+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:10:00.942+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:10:00.942+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:10:00.968+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.536 seconds
+[2024-11-02T16:10:31.865+0000] {processor.py:157} INFO - Started process (PID=929) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:10:31.866+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:10:31.867+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:10:31.866+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:10:32.264+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:10:32.287+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:10:32.287+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:10:32.307+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:10:32.307+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:10:32.326+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.465 seconds
+[2024-11-02T16:11:03.070+0000] {processor.py:157} INFO - Started process (PID=976) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:11:03.071+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:11:03.072+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:11:03.072+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:11:03.562+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:11:03.590+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:11:03.589+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:11:03.616+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:11:03.616+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:11:03.640+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.573 seconds
+[2024-11-02T16:11:34.415+0000] {processor.py:157} INFO - Started process (PID=1023) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:11:34.416+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:11:34.417+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:11:34.417+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:11:34.830+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:11:34.856+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:11:34.855+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:11:34.880+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:11:34.880+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:11:34.901+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.490 seconds
+[2024-11-02T16:12:05.630+0000] {processor.py:157} INFO - Started process (PID=1070) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:05.631+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:12:05.632+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:05.631+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:06.058+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:06.086+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:06.086+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:12:06.113+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:06.112+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:12:06.136+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.511 seconds
+[2024-11-02T16:12:26.776+0000] {processor.py:157} INFO - Started process (PID=1117) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:26.777+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:12:26.778+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:26.777+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:27.387+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:27.418+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:27.417+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:12:27.445+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:27.444+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:12:27.475+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.702 seconds
+[2024-11-02T16:12:58.248+0000] {processor.py:157} INFO - Started process (PID=1167) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:58.249+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:12:58.250+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:58.250+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:58.870+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:12:58.901+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:58.900+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:12:58.927+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:12:58.927+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:12:58.950+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.706 seconds
+[2024-11-02T16:13:29.175+0000] {processor.py:157} INFO - Started process (PID=1214) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:13:29.177+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:13:29.178+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:13:29.178+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:13:29.655+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:13:29.682+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:13:29.682+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:13:29.709+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:13:29.708+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:13:29.733+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.561 seconds
+[2024-11-02T16:14:00.245+0000] {processor.py:157} INFO - Started process (PID=1261) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:14:00.246+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:14:00.247+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:14:00.247+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:14:00.662+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:14:00.686+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:14:00.685+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:14:00.708+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:14:00.708+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:14:00.730+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.488 seconds
+[2024-11-02T16:14:30.958+0000] {processor.py:157} INFO - Started process (PID=1308) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:14:30.959+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:14:30.960+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:14:30.959+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:14:31.498+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:14:31.549+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:14:31.547+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:14:31.575+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:14:31.575+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:14:31.599+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.644 seconds
+[2024-11-02T16:15:02.337+0000] {processor.py:157} INFO - Started process (PID=1367) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:15:02.338+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:15:02.339+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:15:02.338+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:15:02.784+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:15:02.809+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:15:02.809+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:15:02.832+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:15:02.832+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:15:02.852+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.518 seconds
+[2024-11-02T16:15:32.900+0000] {processor.py:157} INFO - Started process (PID=1417) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:15:32.901+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:15:32.902+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:15:32.902+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:15:33.337+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:15:33.361+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:15:33.360+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:15:33.383+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:15:33.383+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:15:33.404+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.507 seconds
+[2024-11-02T16:16:04.317+0000] {processor.py:157} INFO - Started process (PID=1476) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:16:04.319+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:16:04.320+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:16:04.320+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:16:04.696+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:16:04.718+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:16:04.717+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:16:04.738+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:16:04.738+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:16:04.756+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.441 seconds
+[2024-11-02T16:16:35.504+0000] {processor.py:157} INFO - Started process (PID=1523) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:16:35.505+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:16:35.506+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:16:35.506+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:16:35.951+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:16:35.980+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:16:35.979+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:16:36.005+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:16:36.005+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:16:36.037+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.536 seconds
+[2024-11-02T16:17:06.840+0000] {processor.py:157} INFO - Started process (PID=1570) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:17:06.841+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:17:06.842+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:17:06.842+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:17:07.266+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:17:07.290+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:17:07.290+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:17:07.311+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:17:07.311+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:17:07.330+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.494 seconds
+[2024-11-02T16:17:38.073+0000] {processor.py:157} INFO - Started process (PID=1617) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:17:38.075+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:17:38.077+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:17:38.076+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:17:38.525+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:17:38.550+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:17:38.550+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:17:38.572+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:17:38.572+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:17:38.595+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.524 seconds
+[2024-11-02T16:18:09.163+0000] {processor.py:157} INFO - Started process (PID=1664) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:18:09.164+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:18:09.165+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:18:09.165+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:18:09.569+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:18:09.593+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:18:09.593+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:18:09.615+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:18:09.615+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:18:09.636+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.476 seconds
+[2024-11-02T16:18:39.999+0000] {processor.py:157} INFO - Started process (PID=1711) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:18:40.000+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:18:40.001+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:18:40.001+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:18:40.420+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:18:40.449+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:18:40.448+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:18:40.471+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:18:40.471+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:18:40.493+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.496 seconds
+[2024-11-02T16:19:10.662+0000] {processor.py:157} INFO - Started process (PID=1758) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:19:10.663+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:19:10.664+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:19:10.664+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:19:11.117+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:19:11.145+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:19:11.144+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:19:11.166+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:19:11.165+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:19:11.187+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.528 seconds
+[2024-11-02T16:19:41.574+0000] {processor.py:157} INFO - Started process (PID=1805) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:19:41.575+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:19:41.576+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:19:41.576+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:19:41.999+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:19:42.024+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:19:42.024+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:19:42.045+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:19:42.045+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:19:42.079+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.507 seconds
+[2024-11-02T16:20:12.604+0000] {processor.py:157} INFO - Started process (PID=1852) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:20:12.606+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:20:12.607+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:20:12.607+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:20:13.125+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:20:13.156+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:20:13.156+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:20:13.182+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:20:13.182+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:20:13.212+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.613 seconds
+[2024-11-02T16:20:43.264+0000] {processor.py:157} INFO - Started process (PID=1899) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:20:43.265+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:20:43.266+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:20:43.266+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:20:43.834+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:20:43.861+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:20:43.861+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:20:43.883+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:20:43.883+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:20:43.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.644 seconds
+[2024-11-02T16:21:14.467+0000] {processor.py:157} INFO - Started process (PID=1946) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:21:14.468+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:21:14.469+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:21:14.469+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:21:14.934+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:21:14.958+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:21:14.957+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:21:14.981+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:21:14.980+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:21:15.003+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.541 seconds
+[2024-11-02T16:21:45.793+0000] {processor.py:157} INFO - Started process (PID=1993) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:21:45.794+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:21:45.795+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:21:45.795+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:21:46.341+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:21:46.367+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:21:46.367+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:21:46.390+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:21:46.390+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:21:46.414+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.624 seconds
+[2024-11-02T16:22:17.012+0000] {processor.py:157} INFO - Started process (PID=2040) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:22:17.013+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:22:17.014+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:22:17.014+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:22:17.490+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:22:17.515+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:22:17.514+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:22:17.540+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:22:17.540+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:22:17.562+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.553 seconds
+[2024-11-02T16:22:48.187+0000] {processor.py:157} INFO - Started process (PID=2094) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:22:48.188+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:22:48.189+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:22:48.189+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:22:48.602+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:22:48.628+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:22:48.627+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:22:48.650+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:22:48.649+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:22:48.671+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.487 seconds
+[2024-11-02T16:23:19.502+0000] {processor.py:157} INFO - Started process (PID=2141) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:23:19.503+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:23:19.504+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:23:19.504+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:23:19.904+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:23:19.927+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:23:19.927+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:23:19.949+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:23:19.949+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:23:19.970+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.472 seconds
+[2024-11-02T16:23:50.987+0000] {processor.py:157} INFO - Started process (PID=2188) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:23:50.988+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:23:50.989+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:23:50.989+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:23:51.430+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:23:51.455+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:23:51.454+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:23:51.477+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:23:51.477+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:23:51.499+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.515 seconds
+[2024-11-02T16:24:22.300+0000] {processor.py:157} INFO - Started process (PID=2235) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:24:22.301+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:24:22.302+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:24:22.302+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:24:22.773+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:24:22.800+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:24:22.799+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:24:22.826+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:24:22.825+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:24:22.847+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.550 seconds
+[2024-11-02T16:24:53.401+0000] {processor.py:157} INFO - Started process (PID=2283) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:24:53.402+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:24:53.403+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:24:53.402+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:24:53.921+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:24:53.949+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:24:53.948+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:24:53.972+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:24:53.971+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:24:53.992+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.595 seconds
+[2024-11-02T16:25:24.205+0000] {processor.py:157} INFO - Started process (PID=2330) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:25:24.206+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:25:24.207+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:25:24.207+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:25:24.614+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:25:24.638+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:25:24.637+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:25:24.659+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:25:24.658+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:25:24.688+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.487 seconds
+[2024-11-02T16:25:54.755+0000] {processor.py:157} INFO - Started process (PID=2377) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:25:54.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:25:54.757+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:25:54.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:25:55.197+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:25:55.225+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:25:55.224+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:25:55.248+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:25:55.247+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:25:55.274+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.523 seconds
+[2024-11-02T16:26:25.635+0000] {processor.py:157} INFO - Started process (PID=2424) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:26:25.636+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:26:25.637+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:26:25.637+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:26:26.052+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:26:26.078+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:26:26.078+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:26:26.100+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:26:26.100+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:26:26.120+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.488 seconds
+[2024-11-02T16:26:56.592+0000] {processor.py:157} INFO - Started process (PID=2471) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:26:56.593+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:26:56.594+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:26:56.594+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:26:57.009+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:26:57.048+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:26:57.047+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:26:57.069+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:26:57.069+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:26:57.090+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.500 seconds
+[2024-11-02T16:27:28.038+0000] {processor.py:157} INFO - Started process (PID=2518) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:27:28.039+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:27:28.040+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:27:28.040+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:27:28.481+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:27:28.506+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:27:28.506+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:27:28.527+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:27:28.526+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:27:28.549+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.513 seconds
+[2024-11-02T16:27:58.621+0000] {processor.py:157} INFO - Started process (PID=2565) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:27:58.622+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:27:58.623+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:27:58.623+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:27:59.065+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:27:59.096+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:27:59.096+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:27:59.121+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:27:59.121+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:27:59.148+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.530 seconds
+[2024-11-02T16:28:29.791+0000] {processor.py:157} INFO - Started process (PID=2612) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:28:29.792+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:28:29.793+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:28:29.793+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:28:30.208+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:28:30.235+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:28:30.235+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:28:30.257+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:28:30.257+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:28:30.277+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.490 seconds
+[2024-11-02T16:29:00.518+0000] {processor.py:157} INFO - Started process (PID=2659) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:29:00.524+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:29:00.527+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:29:00.526+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:29:01.036+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:29:01.067+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:29:01.066+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:29:01.090+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:29:01.090+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:29:01.120+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.608 seconds
+[2024-11-02T16:29:31.246+0000] {processor.py:157} INFO - Started process (PID=2706) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:29:31.247+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:29:31.248+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:29:31.248+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:29:31.658+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:29:31.683+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:29:31.682+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:29:31.705+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:29:31.705+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:29:31.727+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.484 seconds
+[2024-11-02T16:30:02.278+0000] {processor.py:157} INFO - Started process (PID=2753) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:30:02.279+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:30:02.280+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:30:02.280+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:30:02.700+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:30:02.725+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:30:02.724+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:30:02.746+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:30:02.746+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:30:02.771+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.496 seconds
+[2024-11-02T16:30:33.035+0000] {processor.py:157} INFO - Started process (PID=2800) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:30:33.036+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:30:33.037+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:30:33.036+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:30:33.473+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:30:33.498+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:30:33.498+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:30:33.521+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:30:33.520+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:30:33.541+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.509 seconds
+[2024-11-02T16:31:03.642+0000] {processor.py:157} INFO - Started process (PID=2853) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:31:03.643+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:31:03.644+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:31:03.644+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:31:04.039+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:31:04.064+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:31:04.064+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:31:04.086+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:31:04.085+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:31:04.107+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.467 seconds
+[2024-11-02T16:31:34.320+0000] {processor.py:157} INFO - Started process (PID=2900) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:31:34.321+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:31:34.322+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:31:34.322+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:31:34.792+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:31:34.819+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:31:34.818+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:31:34.842+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:31:34.842+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:31:34.865+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.548 seconds
+[2024-11-02T16:37:04.254+0000] {processor.py:157} INFO - Started process (PID=2948) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:37:04.258+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:37:04.262+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:37:04.261+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:37:06.196+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:37:06.386+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:37:06.380+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:37:06.592+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:37:06.592+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:37:06.772+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 2.537 seconds
+[2024-11-02T16:37:37.232+0000] {processor.py:157} INFO - Started process (PID=3005) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:37:37.233+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:37:37.235+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:37:37.234+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:37:37.988+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:37:38.020+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:37:38.019+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:37:38.049+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:37:38.049+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:37:38.077+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.849 seconds
+[2024-11-02T16:38:08.636+0000] {processor.py:157} INFO - Started process (PID=3055) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:38:08.638+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:38:08.641+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:38:08.640+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:38:09.184+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:38:09.213+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:38:09.213+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:38:09.240+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:38:09.240+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:38:09.271+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.641 seconds
+[2024-11-02T16:38:39.453+0000] {processor.py:157} INFO - Started process (PID=3102) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:38:39.455+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:38:39.457+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:38:39.457+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:38:39.969+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:38:39.999+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:38:39.998+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:38:40.025+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:38:40.025+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:38:40.050+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.602 seconds
+[2024-11-02T16:39:10.362+0000] {processor.py:157} INFO - Started process (PID=3149) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:39:10.363+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:39:10.365+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:39:10.365+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:39:10.866+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:39:10.897+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:39:10.896+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:39:10.924+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:39:10.924+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:39:10.954+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.597 seconds
+[2024-11-02T16:39:41.320+0000] {processor.py:157} INFO - Started process (PID=3196) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:39:41.323+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:39:41.326+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:39:41.325+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:39:41.878+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:39:41.913+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:39:41.913+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:39:41.953+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:39:41.953+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:39:42.003+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.694 seconds
+[2024-11-02T16:40:12.350+0000] {processor.py:157} INFO - Started process (PID=3243) to work on /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:40:12.352+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/branch_dim_generator.py for tasks to queue
+[2024-11-02T16:40:12.353+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:40:12.353+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:40:12.865+0000] {processor.py:839} INFO - DAG(s) dict_keys(['branch_dim_generator']) retrieved from /opt/airflow/dags/branch_dim_generator.py
+[2024-11-02T16:40:12.897+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:40:12.896+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-11-02T16:40:12.924+0000] {logging_mixin.py:151} INFO - [2024-11-02T16:40:12.923+0000] {dag.py:3696} INFO - Setting next_dagrun for branch_dim_generator to 2024-11-02T00:00:00+00:00, run_after=2024-11-03T00:00:00+00:00
+[2024-11-02T16:40:12.950+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/branch_dim_generator.py took 0.603 seconds
