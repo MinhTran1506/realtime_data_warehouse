@@ -1,0 +1,168 @@
+[2024-11-02T02:48:07.790+0000] {processor.py:157} INFO - Started process (PID=210) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:48:07.796+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:48:07.804+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:48:07.803+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:48:10.126+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:48:10.115+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:48:10.128+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:48:10.178+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 2.403 seconds
+[2024-11-02T02:48:40.924+0000] {processor.py:157} INFO - Started process (PID=243) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:48:40.925+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:48:40.926+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:48:40.926+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:48:41.584+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:48:41.579+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:48:41.585+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:48:41.606+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.687 seconds
+[2024-11-02T02:49:12.031+0000] {processor.py:157} INFO - Started process (PID=273) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:49:12.032+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:49:12.034+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:49:12.033+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:49:12.705+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:49:12.699+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:49:12.707+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:49:12.732+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.706 seconds
+[2024-11-02T02:49:43.123+0000] {processor.py:157} INFO - Started process (PID=303) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:49:43.124+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:49:43.125+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:49:43.125+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:49:43.753+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:49:43.748+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:49:43.755+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:49:43.779+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.660 seconds
+[2024-11-02T02:50:14.655+0000] {processor.py:157} INFO - Started process (PID=333) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:50:14.656+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:50:14.658+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:50:14.657+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:50:15.362+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:50:15.358+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:50:15.364+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:50:15.385+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.735 seconds
+[2024-11-02T02:50:45.472+0000] {processor.py:157} INFO - Started process (PID=363) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:50:45.473+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:50:45.474+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:50:45.474+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:50:45.956+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:50:45.950+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:50:45.957+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:50:45.976+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.507 seconds
+[2024-11-02T02:51:16.050+0000] {processor.py:157} INFO - Started process (PID=393) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:51:16.051+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:51:16.053+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:51:16.052+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:51:16.628+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:51:16.624+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:51:16.629+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:51:16.646+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.600 seconds
+[2024-11-02T02:51:47.354+0000] {processor.py:157} INFO - Started process (PID=423) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:51:47.355+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:51:47.356+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:51:47.355+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:51:47.874+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:51:47.870+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:51:47.876+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:51:47.891+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.540 seconds
+[2024-11-02T02:52:18.733+0000] {processor.py:157} INFO - Started process (PID=453) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:52:18.734+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:52:18.735+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:52:18.735+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:52:19.302+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:52:19.295+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:52:19.303+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:52:19.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.596 seconds
+[2024-11-02T02:52:50.168+0000] {processor.py:157} INFO - Started process (PID=483) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:52:50.169+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:52:50.170+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:52:50.170+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:52:50.561+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:52:50.555+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:52:50.562+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:52:50.583+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.419 seconds
+[2024-11-02T02:53:21.306+0000] {processor.py:157} INFO - Started process (PID=513) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:53:21.307+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:53:21.308+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:53:21.307+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:53:21.680+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:53:21.673+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:53:21.681+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:53:21.699+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.396 seconds
+[2024-11-02T02:53:52.002+0000] {processor.py:157} INFO - Started process (PID=543) to work on /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:53:52.003+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/customer_dim_generator.py for tasks to queue
+[2024-11-02T02:53:52.004+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:53:52.003+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:53:52.481+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:53:52.476+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/customer_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/customer_dim_generator.py", line 7, in <module>
+    from faker import Faker
+ModuleNotFoundError: No module named 'faker'
+[2024-11-02T02:53:52.483+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/customer_dim_generator.py
+[2024-11-02T02:53:52.507+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/customer_dim_generator.py took 0.509 seconds

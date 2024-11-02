@@ -1,0 +1,65 @@
+[2024-11-02T02:48:07.741+0000] {processor.py:157} INFO - Started process (PID=207) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:48:07.739+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:48:07.755+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:48:07.753+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:48:07.831+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:48:07.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.178 seconds
+[2024-11-02T02:48:38.849+0000] {processor.py:157} INFO - Started process (PID=238) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:48:38.851+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:48:38.852+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:48:38.852+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:48:38.866+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:48:38.885+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.040 seconds
+[2024-11-02T02:49:08.991+0000] {processor.py:157} INFO - Started process (PID=268) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:49:08.992+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:49:08.993+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:49:08.993+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:49:09.009+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:49:09.028+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.041 seconds
+[2024-11-02T02:49:39.081+0000] {processor.py:157} INFO - Started process (PID=298) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:49:39.083+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:49:39.084+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:49:39.084+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:49:39.099+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:49:39.117+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.040 seconds
+[2024-11-02T02:50:09.593+0000] {processor.py:157} INFO - Started process (PID=328) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:50:09.594+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:50:09.595+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:50:09.595+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:50:09.607+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:50:09.623+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.034 seconds
+[2024-11-02T02:50:40.360+0000] {processor.py:157} INFO - Started process (PID=358) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:50:40.361+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:50:40.363+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:50:40.362+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:50:40.379+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:50:40.395+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.039 seconds
+[2024-11-02T02:51:10.898+0000] {processor.py:157} INFO - Started process (PID=388) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:51:10.900+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:51:10.902+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:51:10.901+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:51:10.918+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:51:10.943+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.053 seconds
+[2024-11-02T02:51:41.252+0000] {processor.py:157} INFO - Started process (PID=418) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:51:41.254+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:51:41.255+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:51:41.254+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:51:41.269+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:51:41.286+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.037 seconds
+[2024-11-02T02:52:11.681+0000] {processor.py:157} INFO - Started process (PID=448) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:52:11.682+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:52:11.683+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:52:11.683+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:52:11.698+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:52:11.714+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.039 seconds
+[2024-11-02T02:52:42.101+0000] {processor.py:157} INFO - Started process (PID=478) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:52:42.103+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:52:42.104+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:52:42.104+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:52:42.116+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:52:42.131+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.034 seconds
+[2024-11-02T02:53:12.223+0000] {processor.py:157} INFO - Started process (PID=508) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:53:12.224+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:53:12.225+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:53:12.225+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:53:12.237+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:53:12.249+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.028 seconds
+[2024-11-02T02:53:42.928+0000] {processor.py:157} INFO - Started process (PID=538) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:53:42.929+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:53:42.930+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:53:42.930+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:53:42.941+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:53:42.952+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.027 seconds
+[2024-11-02T02:54:13.196+0000] {processor.py:157} INFO - Started process (PID=568) to work on /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:54:13.197+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/transaction_facts_generator.py for tasks to queue
+[2024-11-02T02:54:13.197+0000] {logging_mixin.py:151} INFO - [2024-11-02T02:54:13.197+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:54:13.208+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/transaction_facts_generator.py
+[2024-11-02T02:54:13.219+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/transaction_facts_generator.py took 0.027 seconds

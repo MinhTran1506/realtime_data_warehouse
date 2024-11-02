@@ -1,0 +1,171 @@
+[2024-10-31T17:11:39.648+0000] {processor.py:157} INFO - Started process (PID=1357) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:11:39.650+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:11:39.652+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:39.652+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:11:41.240+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:41.233+0000] {dagbag.py:347} ERROR - Failed to import: /opt/airflow/dags/account_dim_generator.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 343, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/account_dim_generator.py", line 72, in <module>
+    start = EmptyOperator()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+TypeError: __init__() missing 1 required positional argument: 'task_id'
+[2024-10-31T17:11:41.241+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:11:41.262+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 1.618 seconds
+[2024-10-31T17:11:52.372+0000] {processor.py:157} INFO - Started process (PID=1371) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:11:52.373+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:11:52.374+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:52.374+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:11:53.237+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:11:53.550+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.550+0000] {manager.py:499} INFO - Created Permission View: %s
+[2024-10-31T17:11:53.562+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.561+0000] {manager.py:499} INFO - Created Permission View: %s
+[2024-10-31T17:11:53.569+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.569+0000] {manager.py:499} INFO - Created Permission View: %s
+[2024-10-31T17:11:53.570+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.569+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:account_dim_generator' as access control is unset.
+[2024-10-31T17:11:53.571+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.570+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:11:53.583+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.583+0000] {dag.py:2937} INFO - Creating ORM DAG for account_dim_generator
+[2024-10-31T17:11:53.593+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:11:53.593+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-09-15T00:00:00+00:00, run_after=2024-09-16T00:00:00+00:00
+[2024-10-31T17:11:53.615+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 1.248 seconds
+[2024-10-31T17:12:23.809+0000] {processor.py:157} INFO - Started process (PID=1383) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:12:23.810+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:12:23.812+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:23.811+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:12:24.248+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:12:24.277+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:24.277+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:12:24.303+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:24.303+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-09-15T00:00:00+00:00, run_after=2024-09-16T00:00:00+00:00
+[2024-10-31T17:12:24.343+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.538 seconds
+[2024-10-31T17:12:48.571+0000] {processor.py:157} INFO - Started process (PID=1396) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:12:48.572+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:12:48.573+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:48.573+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:12:49.031+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:12:49.157+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:49.156+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:account_dim_generator' as access control is unset.
+[2024-10-31T17:12:49.158+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:49.157+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:12:49.181+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:12:49.181+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:12:49.213+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.646 seconds
+[2024-10-31T17:13:19.382+0000] {processor.py:157} INFO - Started process (PID=1409) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:13:19.383+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:13:19.384+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:13:19.384+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:13:19.756+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:13:19.786+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:13:19.786+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:13:19.811+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:13:19.811+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:13:19.834+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.456 seconds
+[2024-10-31T17:13:50.010+0000] {processor.py:157} INFO - Started process (PID=1423) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:13:50.011+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:13:50.012+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:13:50.012+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:13:50.466+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:13:50.491+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:13:50.491+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:13:50.515+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:13:50.515+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:13:50.535+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.528 seconds
+[2024-10-31T17:14:20.681+0000] {processor.py:157} INFO - Started process (PID=1436) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:14:20.682+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:14:20.683+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:14:20.683+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:14:21.107+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:14:21.135+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:14:21.134+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:14:21.163+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:14:21.163+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:14:21.185+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.506 seconds
+[2024-10-31T17:14:51.363+0000] {processor.py:157} INFO - Started process (PID=1449) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:14:51.364+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:14:51.365+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:14:51.365+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:14:51.740+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:14:51.765+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:14:51.764+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:14:51.786+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:14:51.786+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:14:51.805+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.445 seconds
+[2024-10-31T17:15:22.026+0000] {processor.py:157} INFO - Started process (PID=1462) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:15:22.027+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:15:22.028+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:15:22.027+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:15:22.382+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:15:22.407+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:15:22.406+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:15:22.427+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:15:22.427+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:15:22.447+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.424 seconds
+[2024-10-31T17:15:52.614+0000] {processor.py:157} INFO - Started process (PID=1475) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:15:52.615+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:15:52.616+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:15:52.615+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:15:53.010+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:15:53.038+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:15:53.037+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:15:53.061+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:15:53.060+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:15:53.082+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.472 seconds
+[2024-10-31T17:16:23.257+0000] {processor.py:157} INFO - Started process (PID=1488) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:16:23.258+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:16:23.259+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:16:23.259+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:16:23.709+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:16:23.739+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:16:23.738+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:16:23.765+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:16:23.765+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:16:23.795+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.542 seconds
+[2024-10-31T17:16:54.015+0000] {processor.py:157} INFO - Started process (PID=1501) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:16:54.016+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:16:54.019+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:16:54.018+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:16:54.434+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:16:54.466+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:16:54.466+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:16:54.491+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:16:54.490+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:16:54.511+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.502 seconds
+[2024-10-31T17:17:24.723+0000] {processor.py:157} INFO - Started process (PID=1514) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:17:24.724+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:17:24.724+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:17:24.724+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:17:25.097+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:17:25.124+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:17:25.123+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:17:25.150+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:17:25.150+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:17:25.176+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.456 seconds
+[2024-10-31T17:17:55.362+0000] {processor.py:157} INFO - Started process (PID=1527) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:17:55.363+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:17:55.365+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:17:55.364+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:17:55.792+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:17:55.824+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:17:55.823+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:17:55.850+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:17:55.849+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:17:55.874+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.516 seconds
+[2024-10-31T17:18:26.055+0000] {processor.py:157} INFO - Started process (PID=1540) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:18:26.056+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:18:26.057+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:18:26.057+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:18:26.520+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:18:26.546+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:18:26.545+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:18:26.569+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:18:26.569+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:18:26.601+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.549 seconds
+[2024-10-31T17:18:56.716+0000] {processor.py:157} INFO - Started process (PID=1553) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:18:56.717+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:18:56.718+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:18:56.718+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:18:57.103+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:18:57.132+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:18:57.131+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:18:57.155+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:18:57.155+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:18:57.178+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.465 seconds
+[2024-10-31T17:19:27.357+0000] {processor.py:157} INFO - Started process (PID=1566) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:19:27.358+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:19:27.359+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:19:27.359+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:19:27.807+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:19:27.842+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:19:27.841+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:19:27.875+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:19:27.874+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:19:27.901+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.548 seconds
+[2024-10-31T17:19:58.109+0000] {processor.py:157} INFO - Started process (PID=1579) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:19:58.110+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:19:58.111+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:19:58.111+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:19:58.557+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:19:58.590+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:19:58.589+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:19:58.623+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:19:58.623+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:19:58.651+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.546 seconds
+[2024-10-31T17:20:28.808+0000] {processor.py:157} INFO - Started process (PID=1592) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:20:28.810+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:20:28.811+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:20:28.811+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:20:29.216+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:20:29.245+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:20:29.244+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:20:29.268+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:20:29.268+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:20:29.289+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.485 seconds
+[2024-10-31T17:20:59.458+0000] {processor.py:157} INFO - Started process (PID=1605) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:20:59.459+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:20:59.460+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:20:59.460+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:20:59.854+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:20:59.884+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:20:59.884+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:20:59.913+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:20:59.913+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:20:59.937+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.482 seconds
+[2024-10-31T17:21:30.096+0000] {processor.py:157} INFO - Started process (PID=1618) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:21:30.096+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:21:30.097+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:21:30.097+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:21:30.465+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:21:30.492+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:21:30.491+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:21:30.514+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:21:30.513+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:21:30.535+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 0.443 seconds
+[2024-10-31T17:22:00.728+0000] {processor.py:157} INFO - Started process (PID=1631) to work on /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:22:00.730+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/account_dim_generator.py for tasks to queue
+[2024-10-31T17:22:00.732+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:22:00.731+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:22:01.921+0000] {processor.py:839} INFO - DAG(s) dict_keys(['account_dim_generator']) retrieved from /opt/airflow/dags/account_dim_generator.py
+[2024-10-31T17:22:01.966+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:22:01.965+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-10-31T17:22:01.997+0000] {logging_mixin.py:151} INFO - [2024-10-31T17:22:01.997+0000] {dag.py:3696} INFO - Setting next_dagrun for account_dim_generator to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-10-31T17:22:02.026+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/account_dim_generator.py took 1.302 seconds
